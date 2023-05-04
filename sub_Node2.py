@@ -1,3 +1,6 @@
+#Gasteracantha
+#Nicholas Bartholomew
+
 from Node2 import Node
 
 class sub_Node(Node):
