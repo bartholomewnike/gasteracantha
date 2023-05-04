@@ -1,3 +1,6 @@
+#Gasteracantha
+#Nicholas Bartholomew
+
 import subprocess
 import datetime
 import os
