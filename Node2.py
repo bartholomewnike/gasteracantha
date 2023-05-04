@@ -1,3 +1,6 @@
+#Gasteracantha
+#Nicholas Bartholomew
+
 class Node( object ):
   
   
