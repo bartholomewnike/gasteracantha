@@ -1,3 +1,6 @@
+#Gasteracantha
+#Nicholas Bartholomew
+
 import sqlite3
 import subprocess
 from cherry_tree2 import cherry_tree
