@@ -1,3 +1,6 @@
+#Gasteracantha
+#Nicholas Bartholomew
+
 from Node2 import Node
 from sub_Node2 import sub_Node
 #take in file input; create nodes with names and text in a CherryTree file
