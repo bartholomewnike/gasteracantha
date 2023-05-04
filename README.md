@@ -4,4 +4,4 @@ Erik Holtz,
 Justin Moran, 
 Nicholas Bartholomew
 
-I mispelled Python lol
+A Python and CherryTree project
